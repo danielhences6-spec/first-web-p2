@@ -11,4 +11,11 @@ document.getElementById("button").onclick = function () {
     document.getElementById("p1").insertAdjacentHTML("afterend", "<p>Please enjoy your stay!</p>");
     document.getElementById("p2").insertAdjacentHTML("afterend", "<p> <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1'>View My account!</a> </p>");
     document.getElementById("p3").insertAdjacentHTML("afterend", "<p> <a href='https://www.youtube.com/watch?v=uf8F97ONQbc'>About Me!</a> </p>");
+    document.getElementById("p4").insertAdjacentHTML("afterend", "<p> <a href='https://www.facebook.com/profile.php?id=61581175208481'>My FB account!</a> </p>");
+    document.getElementById("p5").insertAdjacentHTML("afterend", "<p> <a href='https://www.tiktok.com/@daniel_denji'>My Tiktok account!</a> </p>");
+
+
+
 }
+
+
