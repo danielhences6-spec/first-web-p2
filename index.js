@@ -14,8 +14,6 @@ document.getElementById("button").onclick = function () {
     document.getElementById("p4").insertAdjacentHTML("afterend", "<p> <a href='https://www.facebook.com/profile.php?id=61581175208481'>My FB account!</a> </p>");
     document.getElementById("p5").insertAdjacentHTML("afterend", "<p> <a href='https://www.tiktok.com/@daniel_denji'>My Tiktok account!</a> </p>");
 
-
-
 }
 
 
